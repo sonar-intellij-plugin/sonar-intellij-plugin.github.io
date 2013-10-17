@@ -1,4 +1,4 @@
-sonar-intellij-plugin.github.io
+sonar-intellij-plugin.com
 ===============================
 
-Contents of the plugin website
+This is the repository for [http://sonar-intellij-plugin.com](http://sonar-intellij-plugin.com)
